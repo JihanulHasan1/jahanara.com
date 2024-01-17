@@ -1,0 +1,223 @@
+.navbar-nav {
+    margin-left: 5%;
+    text-align: center;
+}
+
+.navbar-nav li {
+    padding-left: ;
+}
+
+.login {
+    background-color: rgba(0, 0, 0, 0.098);
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    margin: 100px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.topImg {
+    border: 5px solid;
+    display: flex;
+    justify-content: center;
+}
+
+.topImg img {
+
+    height: 100px;
+}
+
+.topPart {
+    margin: 0%;
+    align-items: center;
+    height: 400px;
+    width: 100%;
+    background-size: auto;
+    background-image: linear-gradient(rgb(255, 255, 255), rgba(247, 252, 255, 0.3)), url(/photo/banner.jpg);
+
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center center;
+}
+
+.topPart h1 {
+    color: black;
+    font-size: 100px;
+}
+
+.topPart img {
+    height: 400px;
+    width: 100%;
+    opacity: .3;
+
+}
+
+.MemberForm {
+    background-color: bisque;
+    box-shadow: rgba(62, 62, 62, 0.5) 0 2px 5px 0;
+
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+.client {
+
+    margin: 50px;
+    padding: 50px;
+    ;
+    background-color: rgb(211, 147, 253);
+    box-shadow: rgba(62, 62, 62, 0.5) 0 2px 5px 0;
+}
+
+.donations {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.Members {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card {
+
+    margin: 20px;
+    height: 220px;
+    width: 250px;
+    background-color: rgba(15, 15, 15, 0.842);
+    box-shadow: rgba(62, 62, 62, 0.5) 0 2px 5px 0;
+}
+.white{
+    color: aliceblue;
+}
+.membercard {
+
+    margin: 20px;
+    height: 400px;
+    width: 250px;
+    background-color: rgba(195, 165, 255, 0.824);
+    border-radius:15px ;
+    box-shadow: rgba(62, 62, 62, 0.5) 0 2px 5px 0;
+}
+
+.card-body .label {
+    margin: 5px;
+    ;
+}
+
+.donation {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.MainBuilding {
+    height: auto;
+    width: 60%;
+    margin-left: 20%;
+    ;
+    margin-right: 20%;
+    background-color: rgba(215, 215, 215, 0.902);
+    box-shadow: rgb(191, 190, 190) 0 2px 5px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.FloorCard {
+
+    margin-left: 60px;
+    height: auto;
+    width: 250px;
+    background-color: rgba(16, 16, 16, 0.58);
+    box-shadow: rgba(62, 62, 62, 0.5) 0 2px 5px 0;
+
+}
+
+.FloorCard .card-body {
+    margin-top: 10px;
+}
+
+.bottom{
+    display: flex;
+    justify-content: center;
+    margin: 20px;;
+}
+.signupForm{
+    margin-left: 5%;;
+    margin-top: 2%;
+    padding-left: 10px;
+    padding-right: 50px;;
+}
+.topbutton{
+    display: flex;
+    justify-content: center;
+}
+
+.tasks{
+    height: 1000px;
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;  
+
+}
+.TaskCard{
+    margin-left: 20px;;
+   height: 350px;;
+   width: 289px;
+    background-color: rgb(247, 247, 247);
+    border-radius:10px ;
+    box-shadow: rgba(158, 158, 158, 0.9) 0 2px 5px 0;
+
+}
+
+.VolunteerPost{
+    background-color: rgba(84, 255, 255, 0.192);
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+}
+.carouselContainer{
+    display: flex;
+    justify-content: center;
+}
+.carousel{
+ margin-top: 20px;
+    height: 200px;
+    width: 300px;;
+    box-shadow: rgba(140, 9, 255, 0.5) 0 2px 5px 0;
+    opacity: .7;
+
+}
+
+.charts{
+    display: flex;
+    height: 400px;
+    width: 400px;
+    margin: 5%;
+}
+.charts .chart{
+    margin: 10%;
+}
+.message{
+
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.message input{
+    height: 100px;;
+}
